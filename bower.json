@@ -1,0 +1,19 @@
+{
+  "name": "poly-app",
+  "version": "0.0.0",
+  "authors": [
+    "Rob Dodson <robdodson@google.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "~2.6.0",
+    "polymer": "Polymer/polymer#~0.3.2"
+  }
+}
